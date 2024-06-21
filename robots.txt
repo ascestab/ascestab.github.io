@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ascestab.github.io/sitemap
+Sitemap: https://ascestab.github.io/app/sitemap
+Sitemap: https://ascestab.github.io/assets/sitemap
+Sitemap: https://ascestab.github.io/css/sitemap
+Sitemap: https://ascestab.github.io/includes/sitemap
+Sitemap: https://ascestab.github.io/item/sitemap
+Sitemap: https://ascestab.github.io/src/sitemap
